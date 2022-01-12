@@ -1,0 +1,19 @@
+---
+title: FSF All-Permissive License
+description: A short and permissive, FSF approved, and GPL compatible license, which can be used without royalty, for a single file or a variety of files.
+spdx-identifier: FSFAP
+permissions:
+  - commercial-use
+  - distribution
+  - modifications
+  - private-use
+limitations:
+  - liability
+  - warranty
+conditions:
+  - include-copyright
+---
+Copying and distribution of this file, with or without
+modification, are permitted in any medium without
+royalty provided the copyright notice and this notice are preserved.
+This file is offered as-is, without any warranty.
